@@ -8,14 +8,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'DTI', link: '/computer-science/terminal' }
+      { text: 'DTI', link: '/DTI/terminal' }
     ],
 
     sidebar: [
       {
         text: 'DTI',
         items: [
-          { text: 'Terminal', link: '/computer-science/terminal' }
+          { text: 'Terminal', link: '/DTI/terminal' }
         ]
       }
     ],

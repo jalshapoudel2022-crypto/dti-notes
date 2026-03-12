@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: "Refer Notes"
-      link: "/computer-science/terminal"
+      link: "/DTI/terminal"
     - theme: alt
       text: "Innovation Roadmap"
       link: "#roadmap"
